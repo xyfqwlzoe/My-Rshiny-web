@@ -1,5 +1,5 @@
 # My-Rshiny-web-example
-(https://shuwenzhang.shinyapps.io/shinyapp_e95_sci_shuwen/)
+https://shuwenzhang.shinyapps.io/shinyapp_e95_sci_shuwen/
 
 Data from
 Soldatov R, Kaucka M, Kastriti ME, Petersen J et al. 
